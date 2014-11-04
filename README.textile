@@ -1,0 +1,3 @@
+This scraper scrapes http://www.haodoo.net
+
+這個抓取器會去爬過「好讀」網站上的網頁，以取得更好的搜索效果。
